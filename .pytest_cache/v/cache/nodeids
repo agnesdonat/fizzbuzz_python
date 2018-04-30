@@ -1,5 +1,6 @@
 [
   "unittesting_pytest/test_fizzbuzz.py::test_returns_fizz",
   "unittesting_pytest/test_fizzbuzz.py::test_returns_buzz",
-  "unittesting_pytest/test_fizzbuzz.py::test_returns_fizzbuzz"
+  "unittesting_pytest/test_fizzbuzz.py::test_returns_fizzbuzz",
+  "unittesting_pytest/test_fizzbuzz.py::test_returns_number"
 ]

@@ -8,4 +8,8 @@ def returns_buzz(a):
 
 def returns_fizzbuzz(a):
     if a % 15 == 0:
-        return "FizzBuzz"        
+        return "FizzBuzz"
+
+def returns_number(a):
+    if a % 3 != 0 and a % 5 != 0  and a % 15 != 0:
+        return a
