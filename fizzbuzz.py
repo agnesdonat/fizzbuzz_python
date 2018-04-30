@@ -5,3 +5,7 @@ def returns_fizz(a):
 def returns_buzz(a):
     if a % 5 == 0:
         return "Buzz"
+
+def returns_fizzbuzz(a):
+    if a % 15 == 0:
+        return "FizzBuzz"        

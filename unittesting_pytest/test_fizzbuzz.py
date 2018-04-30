@@ -7,3 +7,7 @@ def test_returns_fizz():
 def test_returns_buzz():
     fizzbuzz.returns_buzz(5)
     assert "Buzz"
+
+def test_returns_fizzbuzz():
+    fizzbuzz.returns_fizzbuzz(15)
+    assert "FizzBuzz"    
