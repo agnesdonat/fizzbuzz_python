@@ -1,0 +1,4 @@
+[
+  "test_fizzbuzz.py::test_play",
+  "test_fizzbuzz.py::test_one_to_twenty"
+]
